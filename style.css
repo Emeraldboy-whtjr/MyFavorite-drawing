@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    color: black;
+}
+#image{
+    height: 400px;
+    width: 400px;
+    border-radius: 100px;
+    margin-left: 460px;
+}
+h1{
+    font-family: 'Orelega One', cursive;
+    font-size: 21;
+    font-family: serif
+}
