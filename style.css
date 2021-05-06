@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
 }
 .menu{
+    position: fixed;
     list-style: none;
     font-family: cursive;
     float: right;
@@ -22,4 +23,17 @@ h1{
     font-family: 'Orelega One', cursive;
     font-size: 21;
     font-family: serif
+}
+.list:hover{
+    background-color: red;
+    cursor: pointer;
+}
+#image{
+    height: 98px;
+    width: 98px;
+    border-radius: 70%;
+    margin-right: 460px;
+}
+html{
+    scroll-behavior: smooth;
 }
