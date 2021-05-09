@@ -37,3 +37,13 @@ h1{
 html{
     scroll-behavior: smooth;
 }
+p{
+    font-weight: 900;
+}
+img{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+img:hover{
+    transform: scale(0.9);
+}
